@@ -82,3 +82,17 @@ Customer-Segmentation-RFM
 
 └──  .gitignore # Git ignored files
 
+## 🎬 Getting Started
+
+### 1. Clone the repository  
+   ```bash
+   git clone https://github.com/yourusername/Customer-Segmentation-RFM.git
+   cd Customer-Segmentation-RFM
+   ```
+### 2. Install required libraries
+    ```bash
+    pip install -r requirements.txt
+    ```
+### 3.Download the dataset from Kaggle
+
+### 4. Launch Jupyter Notebook and open RFMAnalysis.ipynb
