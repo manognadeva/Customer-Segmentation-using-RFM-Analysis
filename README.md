@@ -87,10 +87,10 @@ Customer-Segmentation-RFM
 ### 1. Clone the repository  
    ```bash
    git clone https://github.com/manognadeva/Customer-Segmentation-RFM-Analysis.git
-   cd Customer-Segmentation-RFM
+   cd Customer-Segmentation-RFM-Analysis
    ```
 ### 2. Install required libraries
     pip install -r requirements.txt
-### 3.Download the dataset from Kaggle
+### 3.Download the [dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data) from Kaggle
 
 ### 4. Launch Jupyter Notebook and open RFMAnalysis.ipynb
