@@ -14,9 +14,7 @@ This project applies **RFM (Recency, Frequency, Monetary)** analysis to segment 
 
 ## 🧾 Dataset
 
-The dataset is sourced from Kaggle:  
-
-**[eCommerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)**  
+The dataset is sourced from Kaggle: **[eCommerce Dataset](https://www.kaggle.com/datasets/carrie1/ecommerce-data)**  
 It contains one year of historical transaction data from a UK-based online retail company that sells unique all-occasion gifts to customers worldwide.
 
 > Note: The dataset is not included in this repository due to licensing restrictions. Please download it directly from the Kaggle link above.
